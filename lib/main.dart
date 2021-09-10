@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
 
 void main() {
   runApp(const MyApp());
@@ -40,6 +41,20 @@ class MyHomePage extends StatefulWidget {
   // case the title) provided by the parent (in this case the App widget) and
   // used by the build method of the State. Fields in a Widget subclass are
   // always marked "final".
+
+  return const MaterialApp(
+  title: 'Localizations Sample App',
+  localizationsDelegates: [
+  GlobalMaterialLocalizations.delegate,
+  GlobalWidgetsLocalizations.delegate,
+  GlobalCupertinoLocalizations.delegate,
+  ],
+  supportedLocales: [
+  Locale('en', ''), // English, no country code
+  Locale('es', ''), // Spanish, no country code
+  ],
+  home: MyHomePage(),
+  );
 
   final String title;
 
