@@ -1,0 +1,11 @@
+Poop Journal is a medical Flutter app to monitor your poo. A good poop is essential to a healthy and fit body. This app makes it possible to track:
+
+- when you poop (timestamp)
+- how often you poop
+- how it was like (pain level)
+- how it looked like (take a picture), colour scheme
+- food that could cause the problem in the toilet
+- sporting activity
+- medication
+
+The aim of this app is to make or keep you healthy and fit. I appreciate support and feedback. Drop an email to marvin@poopjournal.rocks.
