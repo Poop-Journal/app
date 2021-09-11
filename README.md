@@ -1,16 +1,14 @@
-# poop_journal
+# Poop Journal
 
-Poop Journal
+Libre medical app to track defecation.
+Helps patients and people concerned with bodily health track various aspects related to pooping.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Log food intake
+- Add undertaken activities
+- Track frequence of toilet visits
+- Level of discomfort
+- Record colour level
+- Capture images
+- Record sound of bowel movements (coming)
+- Select type from the Bristol stool chart (coming)
+- Social interaction and sharing (possible feature)
