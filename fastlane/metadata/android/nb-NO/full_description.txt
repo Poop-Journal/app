@@ -1,0 +1,11 @@
+Defekasjonsjournalen er et medisinsk Flutter-program for å holde øye med avføringstakt og kvalitet.
+
+- Når du har avføring (tidsstempel)
+- Hvor ofte du har avføring
+- Hvordan det artet seg (smertenivå)
+- Utseende (ta bilde), fargenivå
+- Mat som kan forårsake problemer i toalettet
+- Sportsaktivitet
+- Medisinbruk
+
+Programmets formål er å gjøre deg sunnere og livet ditt enklere. Støtte og tilbakemeldinger verdsettes og kan sendes til marvin@poopjournal.rocks
