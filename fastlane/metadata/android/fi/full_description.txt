@@ -1,0 +1,11 @@
+Poop Journal on lääketieteellinen Flutter-sovellus, jolla voit seurata kakkaasi. Hyvä kakka on tärkeää terveelle ja hyväkuntoiselle keholle. Tämän sovelluksen avulla voit seurata:
+
+- milloin kakkaat (aikaleima)
+- kuinka usein kakkaat
+- millainen se oli (kivun taso)
+- miltä se näytti (ota kuva), värimaailma.
+- ruoka, joka voi aiheuttaa ongelmaa vessassa
+- urheilutoiminta
+- lääkitys
+
+Tämän sovelluksen tavoitteena on tehdä sinusta terve tai pitää sinut terveenä ja hyväkuntoisena. Arvostan tukea ja palautetta. Lähetä sähköpostia osoitteeseen marvin@poopjournal.rocks.
