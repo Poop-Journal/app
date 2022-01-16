@@ -1,0 +1,11 @@
+Poop Journal est une application médicale Flutter permettant de surveiller votre caca. Un bon caca est essentiel pour un corps sain et en forme. Cette application permet d'en faire le suivi :
+
+- le moment où vous faites caca (horodatage)
+- à quelle fréquence vous faites caca
+- comment c'était (niveau de douleur)
+- l'aspect (prendre une photo), la couleur
+- aliments qui pourraient causer le problème dans les toilettes
+- activité sportive
+- médicaments
+
+L'objectif de cette application est de vous permettre de rester en bonne santé et en forme. J'apprécie votre soutien et vos commentaires. Envoyez un courriel à marvin@poopjournal.rocks.
