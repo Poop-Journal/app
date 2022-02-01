@@ -1,0 +1,11 @@
+Poepdagboek is een medische app, gemaakt met Flutter, om je ontlasting bij te houden. Goede poep is essentieel voor je gezondheid. Met deze app kun je bijhouden:
+
+- wanneer je poept (tijdstip);
+- hoe vaak je poept;
+- hoe het voelde (wel of geen pijn);
+- hoe de ontlasting eruitzag (evt. met foto);
+- welk eten mogelijk niet goed valt;
+- welke sporten je beoefent en hoe lang;
+- welke medicatie je gebruikt.
+
+Het doel van deze app is om je fit en gezond te houden. Heb je feedback voor me? Stuur me dan een e-mail: marvin@poopjournal.rocks
