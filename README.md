@@ -29,8 +29,8 @@ Helps patients and people concerned with bodily health track various aspects rel
 - Level of discomfort
 - Record colour level
 - Capture images
-- Record sound of bowel movements (coming)
-- Select type from the Bristol stool chart (coming)
+- Record sound of bowel movements
+- Select type from the Bristol stool chart
 - Social interaction and sharing (possible feature)
 
 We focus on [Android](https://www.android.com/) but thanks to [Flutter](https://flutter.dev/) the app runs fine on [Web](https://flutter.dev/multi-platform/web), [Linux](https://flutter.dev/multi-platform/desktop), [iOS](https://www.apple.com/ios/), [Windows](https://www.windows.com), [macOS](https://www.apple.com/macos/) and many more platforms.
