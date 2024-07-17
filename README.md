@@ -22,7 +22,7 @@
 Libre medical app to track defecation.
 Helps patients and people concerned with bodily health track various aspects related to pooping.
 
-- Log food intake
+- Log food/drink/medication intake
 - Add undertaken activities
 - Track frequence of toilet visits
 - Note when you shit in your pants
