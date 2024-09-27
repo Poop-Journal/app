@@ -2,6 +2,7 @@
 [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Poop-Journal/app/CI/development)](https://github.com/Crazy-Marvin/MorningWood/actions)
 [![License](https://img.shields.io/github/license/Poop-Journal/app.svg)](https://github.com/Poop-Journal/app/blob/trunk/LICENSE)
 [![style: very good analysis](https://img.shields.io/badge/style-very_good_analysis-B22C89.svg)](https://pub.dev/packages/very_good_analysis)
+[![Figma Mockups](https://img.shields.io/badge/Figma-black?logo=figma)](https://www.figma.com/design/7q6jtGkZCFblCVkQng6ZYk/Poop-Journal?node-id=0-1&t=HrvRZCwSfkcEQZgz-1)
 [![Last commit](https://img.shields.io/github/last-commit/Poop-Journal/app.svg?style=flat)](https://github.com/Poop-Journal/app/commits)
 [![Releases](https://img.shields.io/github/downloads/Poop-Journal/app/total.svg?style=flat)](https://github.com/Poop-Journal/app/releases)
 [![Latest tag](https://img.shields.io/github/tag/Poop-Journal/app.svg?style=flat)](https://github.com/Poop-Journal/app/tags)
