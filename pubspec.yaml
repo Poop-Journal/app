@@ -16,7 +16,7 @@ dependencies:
   firebase_crashlytics: ^4.3.4
   firebase_in_app_messaging: ^0.8.1+2
   firebase_performance: ^0.10.0+8
-  firebase_remote_config: ^5.4.2
+  firebase_remote_config: ^5.4.6
   flutter:
     sdk: flutter
   flutter_bloc: ^9.0.0
