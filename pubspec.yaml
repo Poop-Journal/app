@@ -8,7 +8,7 @@ environment:
   flutter:
 
 dependencies:
-  bloc: ^9.0.0
+  bloc: ^9.2.0
   firebase_analytics: ^11.4.2
   firebase_app_check: ^0.3.2+1
   firebase_auth: ^5.3.4
@@ -27,8 +27,8 @@ dependencies:
 
 dev_dependencies:
   bloc_test: ^10.0.0
-  build_runner: 2.4.15
-  flutter_gen_runner: 5.8.0
+  build_runner: 2.13.1
+  flutter_gen_runner: 5.13.0+1
   flutter_test:
     sdk: flutter
   mocktail: ^1.0.0
