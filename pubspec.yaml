@@ -8,7 +8,7 @@ environment:
   flutter:
 
 dependencies:
-  bloc: ^9.0.0
+  bloc: ^9.2.0
   firebase_analytics: ^11.4.2
   firebase_app_check: ^0.3.2+1
   firebase_auth: ^5.3.4
